@@ -34,7 +34,8 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: 20450586, [Github Repo](https://github.com/MelikeDilek/Final.git)
+[^1]: 20450586, [https://github.com/MelikeDilek/Final.git](https://github.com/MelikeDilek/Final.git)
+
 
 # Important Information About Midterm
 
