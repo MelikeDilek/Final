@@ -37,15 +37,8 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 [^1]: 20450586, [https://github.com/MelikeDilek/Final.git](https://github.com/MelikeDilek/Final.git)
 
 
-# Important Information About Midterm
 
-\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 37 IN THIS FILE!}
 
-**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
-
-**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 9 June 2023, 23:59.**
-
-\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
 
@@ -88,9 +81,7 @@ In order to understand whether happiness is felt with a relative or an absolute 
 To conclude, bearing in mind the important role played by personal characteristics such as gender and background, we can add that when expressing an opinion on how happy they are, people compare themselves both to those 'above' and 'to those below', and not just their place in the rankings, but the absolute income of the groups they compare themselves to. considering their size. As a result, the perception of happiness is determined by absolute income rather than relative income.@CORAZZINI2012715
 
 
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
 
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
 
 \newpage
 # References {#references}
